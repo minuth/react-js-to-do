@@ -1,3 +1,15 @@
 h1, p {
   font-family: Lato;
 }
+
+button{
+  margin-left: 5px;
+}
+
+.show{
+  display: inline-block;
+}
+
+.hide{
+  display: none;
+}
